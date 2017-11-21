@@ -6,6 +6,12 @@
    </title>
  </head>
  <body>
+   <div class="jumbotron">
+  <div class="container text-center">
+    <h1>Snowboard</h1>      
+    <p>Hier werden über Snowboard informiert</p>
+  </div>
+  </div>
    <h1>
    Aufbau
    </h1>
