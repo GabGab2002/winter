@@ -6,17 +6,18 @@ h1, h2, h3
 {
    text-shadow: 3px 2px grey;
 }
-
-a:link, a:visited {
-    background-color: #2E2EFE;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
+a:link {
     text-decoration: none;
-    display: inline-block;
 }
 
+a:visited {
+    text-decoration: none;
+}
 
-a:hover, a:active {
-    background-color: blue;
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
 }
