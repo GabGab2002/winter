@@ -5,11 +5,11 @@ body {
 h1, h2, h3
 {
    text-shadow: 3px 2px grey;
-   font-size: 20px;
+   font-size: 40px;
 }
 h1 
 {
-   font-size: 30px;
+   font-size: 50px;
 }
 a:link {
     text-decoration: none;
